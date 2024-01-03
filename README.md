@@ -1,4 +1,4 @@
 # LannWAN
 LannWAN technology <br>
-Author -Punit Kumar Pandey<br>
+Author -P.K. Pandey<br>
 Company - Lan & Wan Technology
